@@ -1,1 +1,1 @@
-# kursi_js
+# Womens kurss JavScript
